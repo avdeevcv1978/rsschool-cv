@@ -33,11 +33,17 @@ transition:1s;
    list-style: decimal; 
    font-weight:bold;
    color: maroon; 
+   margin: 10px 0;;
 
+}
+
+.wrap ul  dt{
+  font-weight:bold; 
 }
 
 .wrap{
     padding-bottom: 50px;
+
 }
 
 
