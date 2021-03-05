@@ -29,7 +29,7 @@ transition:1s;
 
 }
 
-.wrap ul li {
+.wrap ol li {
    list-style: decimal; 
    font-weight:bold;
    color: maroon; 
@@ -37,7 +37,7 @@ transition:1s;
 
 }
 
-.wrap ul  dt{
+.wrap ol  dt{
   font-weight:bold; 
 }
 
